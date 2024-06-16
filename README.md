@@ -1,6 +1,6 @@
 # Flutter Animation Demo
 
-This Flutter project demonstrates the usage of various animation widgets in Flutter, including `AnimatedAlign`, `AnimatedContainer`, `AnimatedCrossFade`, `AnimatedDefaultTextStyle`, `AnimatedOpacity`, and `AnimatedPhysicalModel`.
+This Flutter project demonstrates the usage of various animation widgets in Flutter, including `AnimatedAlign`, `AnimatedContainer`, `AnimatedCrossFade` and , `AnimatedDefaultTextStyle`
 
 ## Table of Contents
 
