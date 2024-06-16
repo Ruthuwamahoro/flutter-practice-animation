@@ -2,6 +2,11 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
       home: Scaffold(
+        appBar: AppBar(
+          title: Text('Flutter Animation', style: TextStyle(color: Colors.white),),
+          centerTitle: true,
+          backgroundColor: Colors.blue,
+        ),
         body: MyApp(),
       ),
     ));
