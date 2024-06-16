@@ -37,6 +37,10 @@ This project showcases how to implement different animations in a Flutter applic
    ```bash
    git clone https://github.com/your-username/flutter-animation-demo.git
 
-2.cd flutter-animation-demo
+2. cd flutter-animation-demo
+
+
 3.Install dependencies: flutter pub get
+
+
 4.Flutter run
