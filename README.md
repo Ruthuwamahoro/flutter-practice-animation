@@ -43,4 +43,4 @@ This project showcases how to implement different animations in a Flutter applic
 3.Install dependencies: flutter pub get
 
 
-4.Flutter run
+4.Run the application: Flutter run
